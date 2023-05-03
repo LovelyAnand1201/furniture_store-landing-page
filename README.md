@@ -12,4 +12,4 @@ The website is resposive as you can see in the images
 
 Minimal animations has also been added to keep it simple yet attractive.
 
-You can preview the website at https://outstanding-onyx-juniper.glitch.me
+You can preview the website at <button><a href="https://outstanding-onyx-juniper.glitch.me"> Preview here </a></button>
